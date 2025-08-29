@@ -33,7 +33,7 @@ first name: <first name>
 last name: <last name>
 -----------------
 ```
-## Here are 10 examples of account data entries in the specified format:
+## Here are 3 examples of account data entries in the specified format:
 ```
   Cin: 111111
   montant: 5000
@@ -49,40 +49,5 @@ last name: <last name>
   montant: 1500
   first_name: Carol
   last_name: Williams
-  -----------------
-  Cin: 444444
-  montant: 2000
-  first_name: David
-  last_name: Miller
-  -----------------
-  Cin: 555555
-  montant: 4500
-  first_name: Emily
-  last_name: Davis
-  -----------------
-  Cin: 666666
-  montant: 2800
-  first_name: Frank
-  last_name: Wilson
-  -----------------
-  Cin: 777777
-  montant: 6000
-  first_name: Grace
-  last_name: Anderson
-  -----------------
-  Cin: 888888
-  montant: 1200
-  first_name: Henry
-  last_name: Taylor
-  -----------------
-  Cin: 999999
-  montant: 3500
-  first_name: Iris
-  last_name: Clark
-  -----------------
-  Cin: 101010
-  montant: 1800
-  first_name: Jack
-  last_name: Martin
   -----------------
 ```
